@@ -1,0 +1,138 @@
+    1  whoami
+    2  exit
+    3  whoami
+    4  exit
+    5  sudo su -
+    6  whoami
+    7  exit
+    8  whoami
+    9  yum install git
+   10  git --version
+   11  git clone https://github.com/nageshcena/firstproject.git
+   12  ls ltr
+   13  ls -ltr
+   14  ls -lart
+   15  pwd
+   16  exit
+   17  cd /home/ec2-user/gitproject
+   18  git branch
+   19  git checkout master
+   20  ls -lrt
+   21  cd firstproject/
+   22  ls -lrt
+   23  git branch
+   24  git pull
+   25  ls -lrt
+   26  yum install git
+   27  git init
+   28  pwd
+   29  cd 
+   30  clear
+   31  git pull 
+   32  cd https://github.com/nageshcena/firstproject.git
+   33  pwd
+   34  git clone https://github.com/nageshcena/firstproject.git
+   35  cd firstproject
+   36  git clone https://github.com/nageshcena/firstproject.git
+   37  git branch
+   38  git status
+   39  git add .
+   40  git add *
+   41  clear
+   42  git status
+   43  whoami
+   44  pwd
+   45  ls -lrt
+   46  git clone https://github.com/nageshcena/firstproject.git
+   47  git status
+   48  exit
+   49  git branch
+   50  cd firstproject/
+   51  clear
+   52  git branch
+   53  pwd
+   54  git ls-tree --full-tree -r --name-only HEAD
+   55  git ls-files 
+   56  whoami
+   57  cd firstproject
+   58  git branch
+   59  ls -lrt
+   60  git pull
+   61  git status
+   62  git branch
+   63  pwd
+   64  git status
+   65  git stash
+   66  git status
+   67  git rm firstproject/
+   68  git add .
+   69  git stash
+   70  git status
+   71  git add firstproject/
+   72  git status
+   73  git restore --staged firstproject/
+   74  git status
+   75  git stash
+   76  git status
+   77  git add firstproject/
+   78  git stash
+   79  clear
+   80  wpd
+   81  pwd
+   82  ls -lrt
+   83  git branch
+   84  git status
+   85  vi file.txt
+   86  ./file.txt
+   87  chmod 777
+   88  chmod 777 file.txt
+   89  ./file.txt
+   90  git status
+   91  git add file.txt
+   92  git status
+   93  git commit -m "change something"
+   94  git status
+   95  git push\
+   96  git push 
+   97  git push
+   98  pwd
+   99  ls -lrt
+  100  clear
+  101  ls -lrt
+  102  vi file.txt 
+  103  git status
+  104  git add file.txt 
+  105  git status
+  106  git commit -m "changes is done"
+  107  git status
+  108  git push
+  109  git status
+  110  clear
+  111  git status
+  112  vi file.txt
+  113  git status
+  114  git add file.txt
+  115  git status
+  116  git commit -m "removed"
+  117  git status
+  118  git push
+  119  clear
+  120  git checkout -b nag
+  121  git branch
+  122  pwd
+  123  vi file1.txt
+  124  git status
+  125  git add file1.txt
+  126  git status
+  127  git commit -m "new file added"
+  128  git status
+  129  git checkout master
+  130  git status
+  131  git branch
+  132  git merge nag masterr
+  133  git merge nag master
+  134  git status
+  135  git push 
+  136  git status
+  137  history
+  138  history >> coomands.txt
