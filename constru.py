@@ -32,3 +32,4 @@ class Resident(Person, Student): # extends both Person and Student class
 resident1 = Resident('John', 30, '102')  
 resident1.showName()  
 print(resident1.getId())  
+print("hi hello world")
